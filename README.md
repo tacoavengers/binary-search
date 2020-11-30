@@ -1,6 +1,11 @@
 # binary-search
 Binary search
 
+https://repl.it/@webdevdave/Binary-Search#main.py
+
+- The data must be sorted
+- 0(log n)
+
 ```
 def binary_search(list, item):
     low = 0
